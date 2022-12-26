@@ -133,3 +133,6 @@ video.frame-media_left
     opacity: .25;
 
 }
+body::-webkit-scrollbar { 
+	display: none;  
+}
